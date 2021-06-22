@@ -42,6 +42,7 @@ button {
     position: relative;
     overflow: hidden;
     cursor: pointer;
+    background-color: var(--white);
 }
 
 .cont-box {
